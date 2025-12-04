@@ -47,7 +47,7 @@ npm run dev
 
 ## 🧪 API Endpoints
 
-POST /api/signup
+POST /api/signup  \n
 POST /api/login
 
 ---
