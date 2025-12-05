@@ -1,7 +1,7 @@
 [
   {
     "id": 1764846691191,
-    "firstName": "Nakshith",
+    "firstName": "Rajesh",
     "lastName": "Kanchan",
     "phone": "8217394815",
     "country": "India",
@@ -42,5 +42,49 @@
     "gender": "male",
     "email": "ra@gmail.com",
     "password": "Rajesh@123"
+  },
+  {
+    "id": 1764935139215,
+    "firstName": "Rahul",
+    "lastName": "Raj",
+    "phone": "9876543210",
+    "country": "India",
+    "company": "Microsoft",
+    "gender": "male",
+    "email": "user1764935128380@test.com",
+    "password": "Password@123"
+  },
+  {
+    "id": 1764935948749,
+    "firstName": "Rajesh",
+    "lastName": "Sharma",
+    "phone": "7878787878",
+    "country": "India",
+    "company": "COmpany",
+    "gender": "male",
+    "email": "rrajesh@gmail.com",
+    "password": "Rajesh@123"
+  },
+  {
+    "id": 1764936051767,
+    "firstName": "Rahul",
+    "lastName": "Raj",
+    "phone": "9876543210",
+    "country": "India",
+    "company": "Microsoft",
+    "gender": "male",
+    "email": "user1764936051451@test.com",
+    "password": "Password@123"
+  },
+  {
+    "id": 1764936350355,
+    "firstName": "Rahul",
+    "lastName": "Raj",
+    "phone": "9876543210",
+    "country": "India",
+    "company": "Microsoft",
+    "gender": "male",
+    "email": "user1764936325968@test.com",
+    "password": "Password@123"
   }
 ]

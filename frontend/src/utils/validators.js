@@ -1,5 +1,5 @@
 export const isValidName = (name) => {
-  const re = /^[A-Za-zÀ-ÿ' -]{2,}$/;
+  const re = /^[A-Za-zÀ-ÿ' -]{1,}$/;
   return re.test(name.trim());
 };
 

@@ -1,0 +1,14 @@
+{
+  "name": "auth-project",
+  "version": "1.0.0",
+  "description": "A simple authentication project built using **React (Vite)** for frontend and **Node.js + Express** for backend.\r Includes signup, login, validations, dashboard, and localStorage session.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  }
+}
